@@ -1,15 +1,22 @@
-## Hi there 👋
+# Erildo
 
-You ship every day. Nobody knows. CraftByte changes that.
-Turn every commit into a post.
-2-min setup · posts ship automatically · free -> https://www.craftbyte.app/
+Founder. I build and ship products in education, developer tools, and applied AI.
 
-working in enhacing education Learn with Frank: https://learnwfrank.com 
+Right now the main focus is [Learn with Frank](https://learnwfrank.com): interactive courses built on speech, voice, visualization, and games, plus onboarding programs for individuals, companies, and institutions.
 
-👉 UPDATE: currently building interecative (speech, voice, visualization, games) courses and onboarding for individuals, companies and institutions. Based on best learning methods for a unique experience.
+## Building
 
-- ⚡ Passionate about finance/AI and solving difficult problems 
-- 🔭 I’m currently working on some web/mobile focused on education/healthcare/finace/Robotics/AI
-- 🌱 life-long learner occasionally share the books I read on X
+| Project | What it does |
+|---------|--------------|
+| [Learn with Frank](https://learnwfrank.com) | Interactive courses and onboarding programs. Learning through speech, voice, visualization, and games. |
+| [CraftByte](https://www.craftbyte.app/) | Turns your commits into posts, automatically. 2-minute setup, free. |
+| [cofounders](https://github.com/Erildo/cofounders) | Open-source platform for finding and working with cofounders. |
+| [Aletheia-SLM](https://github.com/Erildo/Aletheia-SLM) · [Rr-SLM](https://github.com/Erildo/Rr-slm) | Small language model experiments: training from scratch and recursive refinement. |
 
-- 📫 Reach me on erildo@learnwfrank.com , I always answer.
+## Off the keyboard
+
+Finance, AI, and hard problems. I read constantly and share book notes on [X](https://x.com/erildox).
+
+## Contact
+
+For courses, onboarding programs, or partnerships: **erildo@learnwfrank.com**. I always answer.
