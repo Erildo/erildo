@@ -4,9 +4,7 @@
 
 # Erildo
 
-Systems designer and founder. I design how a product works end to end — the structure, the flow, the details — and then ship it.
-
-Education, developer tools, and applied AI.
+I build and ship products in education, developer tools, and applied AI.
 
 <br>
 
@@ -46,4 +44,4 @@ Finance, AI, and hard problems. I read constantly and share book notes on [X](ht
 
 ## Contact
 
-**erildo@learnwfrank.com** — for Plan2Ace, courses, onboarding programs, or partnerships. I always answer.
+**esh@plan2ace.com** — for Plan2Ace, courses, onboarding programs, or partnerships. I always answer.
