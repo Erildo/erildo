@@ -1,17 +1,44 @@
+<p align="center">
+  <img src="assets/header.svg" width="620" alt="A commit graph branching and merging" />
+</p>
+
 # Erildo
 
-Founder. I build and ship products in education, developer tools, and applied AI.
+Systems designer and founder. I design how a product works end to end — the structure, the flow, the details — and then ship it.
 
-Right now the main focus is [Learn with Frank](https://learnwfrank.com): interactive courses built on speech, voice, visualization, and games, plus onboarding programs for individuals, companies, and institutions.
+Education, developer tools, and applied AI.
 
-## Building
+<br>
 
-| Project | What it does |
-|---------|--------------|
-| [Learn with Frank](https://learnwfrank.com) | Interactive courses and onboarding programs. Learning through speech, voice, visualization, and games. |
-| [CraftByte](https://www.craftbyte.app/) | Turns your commits into posts, automatically. 2-minute setup, free. |
-| [cofounders](https://github.com/Erildo/cofounders) | Open-source platform for finding and working with cofounders. |
-| [Aletheia-SLM](https://github.com/Erildo/Aletheia-SLM) · [Rr-SLM](https://github.com/Erildo/Rr-slm) | Small language model experiments: training from scratch and recursive refinement. |
+## Plan2Ace
+
+**Plan, focus, study.**
+
+An iOS app for students: an adaptive plan engine that reshapes your week when you fall behind, and a shared study room where focus is something you keep with other people.
+
+→ [plan2ace.com](https://plan2ace.com)
+
+<br>
+
+## Also building
+
+**[Learn with Frank](https://learnwfrank.com)** — Interactive courses and onboarding programs. Learning through speech, voice, visualization, and games.
+
+**[CraftByte](https://www.craftbyte.app/)** — Turns your commits into posts, automatically. Two-minute setup, free.
+
+**[cofounders](https://github.com/Erildo/cofounders)** — Open-source platform for finding and working with cofounders.
+
+<br>
+
+## Experiments
+
+Small language models, trained and rebuilt from scratch.
+
+**[Aletheia-SLM](https://github.com/Erildo/Aletheia-SLM)** — Training a small language model from the ground up.
+
+**[Rr-SLM](https://github.com/Erildo/Rr-slm)** — Recursive refinement.
+
+<br>
 
 ## Off the keyboard
 
@@ -19,4 +46,4 @@ Finance, AI, and hard problems. I read constantly and share book notes on [X](ht
 
 ## Contact
 
-For courses, onboarding programs, or partnerships: **erildo@learnwfrank.com**. I always answer.
+**erildo@learnwfrank.com** — for Plan2Ace, courses, onboarding programs, or partnerships. I always answer.
