@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="assets/header.svg" width="620" alt="A commit graph branching and merging" />
-</p>
 
 # Erildo
 
-I build and ship products in education, developer tools, and applied AI.
+Hi 👋
+I love building products in education, developer tools, and applied AI.
 
 <br>
 
